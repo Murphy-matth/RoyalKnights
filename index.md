@@ -1,8 +1,3 @@
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
 # Kingdom 2338 of 'Cacimo',<br> Royal Knights,<br> Rulebook,<br> R.K.R.
 
 #   0. Preamble
