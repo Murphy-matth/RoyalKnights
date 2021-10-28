@@ -1,4 +1,4 @@
-# Kingdom 2338 of 'Cacimo',<br> Royal Knights,<br> Rulebook,<br> R.K.R.
+# Kingdom 2338 of 'Cacimo',<br> Royal Knights,<br> Rulebook,<br> The “RKR„
 
 #   0. Preamble
 `In the following document...`
@@ -6,7 +6,7 @@
 `... The terms 'approved by the Councils', 'passed by the Councils', 'decided by the Councils' are used to refer to any motion drafted by 'Council' and approved by 'High Council'.`
 
 `... The phrase 'The position A is appointed by B' is used to indicate that a certain department or person <B> has total or shared control on the people who fill a specific role or position <A>.`
-# R.K.R. Title 1 ー Structure
+# “RKR„ Title 1 ー Structure
 ### 1 RKR § 01 ー High Council
 **( a ) Position of High Council ー**<br>  `'High Council' is the highest institution.`<br>
 **( b ) Powers of High Council ー**
@@ -64,13 +64,16 @@
 
 **( b ) Shifts ー** <br> `'Council' requires the appointed 'Leaders' to ensure the members of the 'Titles Department' work 'title giving shifts'.`<br>
 
-# R.K.R. Title 2 ー Alliances
+# “RKR„ Title 2 ー Alliances
 ### 2 RKR § 01 ー Leadership
-**( a ) Definition of Alliance Leadership ー**  
+**( a ) Definition of Alliance Leadership ー** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;**( 1 )** `Generally, Alliance Leaderships are a special type of 'Executive Departments' that are under 'High Council', but behave as if they were under 'Council'. `<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**( 2 )** `They have a 'Leader'.`<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**( 3 )** `Their leader is appointed by 'High Council'. `<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**( 4 )** `Members are appointed by the 'Leader'. `<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**( 4-a )** `The 'Leader' 
+&nbsp;&nbsp;&nbsp;&nbsp;**( 2 )** `Alliance Leaderships have a 'Leader'.`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**( 3 )** `An Alliance Leadership's 'Leader' is appointed by 'High Council'. `<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**( 4 )** `Members (R4s) are appointed by the 'Leader'. `<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**( 4-a )** `The 'Leader' 
 is commonly  called 'R5' and the members are commonly called 'R4'.`<br>
+**( b ) Definition of Official Alliances ー**  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;**( 1 )** `'Official Alliances' are alliances that have a Leadership 'Executive Branch' tied to them.`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**( 2 )** `'Official Alliances' have two constituents, 'Leadership' which is an Alliance Leadership Executive Branch tied to the alliance and members, who are decided by the alliance's tied 'Leadership'.`<br>
 
 
