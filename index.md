@@ -1,3 +1,8 @@
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 # Kingdom 2338 of 'Cacimo',<br> Royal Knights,<br> Rulebook,<br> R.K.R.
 
 #   0. Preamble
@@ -56,8 +61,9 @@
 | Mail | Manage the formatting and writing of King Mails. | Council |
 | Titles| Give titles and decide on timing for buffs. | Council | 
 | Migration | Manage which migrants can come in. | High Council |
-| Warlord | Manage planning for tactics and building for KvKs. | High Council
-| Diplomacy| Manage allies during KvKs. | High Council
+| Warlord | Manage planning for tactics and building for KvKs. | High Council |
+| Diplomacy| Manage allies during KvKs. | High Council |
+{: .tablelines}
 ---
 ### 1 RKR § 04 ー Special powers and obligations of the Titles Department
 **( a ) Buffs ー**<br> `'Council' vests, with authority borrowed from 'High Council', in the 'Titles' Department the power to choose buff times.`
