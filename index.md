@@ -50,7 +50,7 @@
 ---
 **( g ) Exhaustive List of Executive Branches ー**
 |Department| Description | Under | 
-|--|--|--|
+|---|---|---|
 | Territory | Manage the territory in home kingdom. | Council |
 | Data | Manage the data tracking for KvKs. | Council |
 | Mail | Manage the formatting and writing of King Mails. | Council |
