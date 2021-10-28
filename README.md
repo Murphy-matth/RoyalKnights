@@ -18,8 +18,8 @@
 **( a ) Generally ー**<br> `'Council' shall be in charge of writing legislation.`
 **( b ) Council Passing of Motions ー**<br> `'Council' shall pass motions through majority vote.`
 ### 1 RKR § 03 ー Executive Departments or Branches
-**( a ) Generally ー**
-&nbsp;&nbsp;&nbsp;&nbsp;**( 1 )** `'Executive Departments are organisations consisting of:`
+**( a ) Generally ー**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**( 1 )** `'Executive Departments' are organisations consisting of:`
 - `Members`
 `of which some are`
 - `Leaders` - `Only for Executive Branches that are under Council.` 
@@ -56,9 +56,8 @@
 | Mail | Manage the formatting and writing of King Mails. | Council |
 | Titles| Give titles and decide on timing for buffs. | Council | 
 | Migration | Manage which migrants can come in. | High Council |
-| Warlord | Manage planning for tactics and building for KvKs. | High Council |
-| Diplomacy| Manage allies during KvKs. | High Council |
-
+| Warlord | Manage planning for tactics and building for KvKs. | High Council
+| Diplomacy| Manage allies during KvKs. | High Council
 ---
 ### 1 RKR § 04 ー Special powers and obligations of the Titles Department
 **( a ) Buffs ー**<br> `'Council' vests, with authority borrowed from 'High Council', in the 'Titles' Department the power to choose buff times.`
