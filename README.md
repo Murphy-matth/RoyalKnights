@@ -9,10 +9,10 @@
 # “RKR„ Title 1 ー Structure
 ### 1 RKR § 01 ー High Council
 **( a ) Position of High Council ー**<br>  `'High Council' is the highest institution.`<br>
-**( b ) Powers of High Council ー**
+**( b ) Powers of High Council ー**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**( 1 )** `'High Council' can 'veto' any 'motion'.`<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**( 2 )**  `'High Council' is the only institution that can pass a legislation.`<br>
-**( c ) High Council Passing of Motions ー**
+**( c ) High Council Passing of Motions ー**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**( 1 )**  `'High Council' shall reach a consensus before passing a legislation.`<br>
 ### 1 RKR § 02 ー Council
 **( a ) Generally ー**<br> `'Council' shall be in charge of writing legislation.`<br>
@@ -90,7 +90,7 @@ is commonly  called 'R5' and the members are commonly called 'R4'.`<br>
  &nbsp;&nbsp;&nbsp;&nbsp;**( 1 )** `Generally, city hits are not allowed except exceptions stated in 3 RKR § 01{a-3}.`<br>
   &nbsp;&nbsp;&nbsp;&nbsp;**( 2 )** `The punishment for any who City Hits shall be a zero.`<br>
    &nbsp;&nbsp;&nbsp;&nbsp;**( 3 )** `Exceptions to 3 RKR § 01{a-3} are:`<br>
-   - `The 'City Hall Level' of the victim was under 8`
+   - `The 'City Hall Level' of the victim was under 8`<br>
    - `The 'City hit' was prescribed by a 'Council Emergency Motion'.`
    - `The 'City Hit' was prescribed by 'High Council'`
   
