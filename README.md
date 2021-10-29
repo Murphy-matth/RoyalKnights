@@ -17,6 +17,8 @@
 ### 1 RKR § 02 ー Council
 **( a ) Generally ー**<br> `'Council' shall be in charge of writing legislation.`<br>
 **( b ) Council Passing of Motions ー**<br> `'Council' shall pass motions through majority vote.`<br>
+**( c ) Distribution of Council ー**<br>`The Ri alliance shall have 1 'Council seat', the alliances, 'RA', 'RX', 'RK', 'RP' and 'RR' shall have 2, unless otherwise stated by 'High Council'.`
+**( d ) Council Emergency Motion ー**<br> `'Council' may pass a motion to zero a user if a city hit has occured with solely 3 votes.`<br>
 ### 1 RKR § 03 ー Executive Departments or Branches
 **( a ) Generally ー**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**( 1 )** `'Executive Departments' are organisations consisting of:`
@@ -42,7 +44,7 @@
 - `Diplomacy`
 - `Warlord`
 
-**( 2 )** `Exception to Title 1 RKR § 03 Article (a) Subsections (1) and (3)   ー Executive Branches under 'High Council' do not have a 'Leader', their members are appointed only by 'High Council'`
+**( 2 )** `Exception to Title 1 RKR § 03{a-1, a-3}   ー Executive Branches under 'High Council' do not have a 'Leader', their members are appointed only by 'High Council'`
 
 **( f ) Additional Powers of High Council<br> and Council ー** 
 `At any time, the 'Councils' may create new 'Executive Departments'.`
@@ -65,7 +67,7 @@
 **( b ) Shifts ー** <br> `'Council' requires the appointed 'Leaders' to ensure the members of the 'Titles Department' work 'title giving shifts'.`<br>
 
 # “RKR„ Title 2 ー Alliances
-### 2 RKR § 01 ー Leadership
+### 2 RKR § 01 ー Definitions
 **( a ) Definition of Alliance Leadership ー** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;**( 1 )** `Generally, Alliance Leaderships are a special type of 'Executive Departments' that are under 'High Council', but behave as if they were under 'Council'. `<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**( 2 )** `Alliance Leaderships have a 'Leader'.`<br>
@@ -75,5 +77,20 @@ is commonly  called 'R5' and the members are commonly called 'R4'.`<br>
 **( b ) Definition of Official Alliances ー**  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;**( 1 )** `'Official Alliances' are alliances that have a Leadership 'Executive Branch' tied to them.`<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**( 2 )** `'Official Alliances' have two constituents, 'Leadership' which is an Alliance Leadership Executive Branch tied to the alliance and members, who are decided by the alliance's tied 'Leadership'.`<br>
+### 2 RKR § 02 ー Obligations
+**( a ) Obligations of Alliances Leadership ー**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**( 1 )** `It is mandatory that Alliance Leadership keep track of who their members are.`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**( 2 )** `It is mandatory that Alliance Leadership works to have the resources necessary to build flags or fortresses prescribed by the 'Councils'.`<br>
+**( b ) Position of Alliance Members ー**<br>
+`Alliance members are directly under their respective Leadership.`
+# “RKR„ Title 3 ー Offenses
 
-
+### 3 RKR § 01 ー Major Offenses
+**( a ) City Hits ー**
+ &nbsp;&nbsp;&nbsp;&nbsp;**( 1 )** `Generally, city hits are not allowed except exceptions stated in 3 RKR § 01{a-3}.`<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;**( 2 )** `The punishment for any who City Hits shall be a zero.`<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;**( 3 )** `Exceptions to 3 RKR § 01{a-3} are:`<br>
+   - `The 'City Hall Level' of the victim was under 8`
+   - `The 'City hit' was prescribed by a 'Council Emergency Motion'.`
+   - `The 'City Hit' was prescribed by 'High Council'`
+  
